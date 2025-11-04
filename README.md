@@ -4,8 +4,8 @@ I am a currently a 3rd year, BSIT student in Xavier University - Ateneo De Cagay
 
 ## 🚀 About Me
 - 🔭 I'm currently pursuing my Bachelor's Degree in Information Technology at Xavier University - Ateneo De Cagayan.
-- 🌱 I’m currently learning Full Stack Web Development and API creation.
-- 💬 Ask me about ...
+- 🌱 I’m currently learning what to do.
+- 💬 Ask me about: please don't me anything
 - 📫 How to reach me: <20230026875@my.xu.edu.ph>
 
 ## 💻 Technical Skills
