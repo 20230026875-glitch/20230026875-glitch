@@ -21,6 +21,6 @@ Other: Microsoft Office
 ## 📚 Education
 - Xavier University – Ateneo de Cagayan
 - BS in Information Technology
-🗓️ Aug 2023 – Present
+- 🗓️ Aug 2023 – Present
 
 Thanks for stopping by!
