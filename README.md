@@ -8,16 +8,19 @@ I am a currently a 3rd year, BSIT student in Xavier University - Ateneo De Cagay
 - 💬 Ask me about ...
 - 📫 How to reach me: <20230026875@my.xu.edu.ph>
 
-## 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vscode)](https://skillicons.dev)
+## 💻 Technical Skills
+Frontend: HTML5, JavaScript , Kotlin
+Backend: JSP, Python, Java, MySQL and Mongodb(database design)
+Tools: Git, GitHub, VS Code, VirtualBox
+Other: Microsoft Office
 
-## 🌱 Currently Exploring
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React.
-  - Building server-side applications with Django or Express.js.
+## 🧠 Strengths & Soft Skills
+- 👨‍💻 Strong problem-solving mindset
+- 🤝 Effective team collaborator
 
-## 🏆 Achievements
-- 🌟 Completed Git & GitHub Setup 2024
-- 🔭 I’m currently working on my final API project.
+## 📚 Education
+- Xavier University – Ateneo de Cagayan
+- BS in Information Technology
+🗓️ Aug 2023 – Present
 
 Thanks for stopping by!
