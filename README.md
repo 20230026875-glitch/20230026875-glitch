@@ -1,7 +1,7 @@
 # Hi, I'm Kent Andrei Uyguangco! 👋
 
 I am a currently a 3rd year, BSIT student in Xavier University - Ateneo De Cagayan.
-![20230026875-glitch's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<20230026875-glitch>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 - 🔭 I'm currently pursuing my Bachelor's Degree in Information Technology at Xavier University - Ateneo De Cagayan.
